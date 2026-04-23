@@ -1,4 +1,4 @@
-# Generative Modelling Case Study – GAN Assignment
+# Generative Modelling Case Study
 
 ## Overview
 
